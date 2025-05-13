@@ -1,0 +1,497 @@
+{
+  "main": {
+    "id": "37c5b506793b29a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "919fe6fb768dddb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a880e899d2cdd88e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Kult der Blutigen Zunge",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult der Blutigen Zunge\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Byakhee",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Mythen & Legenden/Byakhee.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Byakhee\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Carlton Ramsey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Charaktere/NSCs/Carlton Ramsey.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Carlton Ramsey\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":121},\"to\":{\"line\":11,\"ch\":121}},\"scroll\":0}"
+                },
+                {
+                  "title": "2025-05-13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05 - Sitzungsnotizen/2025-05-13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-05-13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":139},\"to\":{\"line\":26,\"ch\":139}},\"scroll\":15.264761188416697}"
+                },
+                {
+                  "title": "Jan Willem Van Heuvelen",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Charaktere/NSCs/Jan Willem Van Heuvelen.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jan Willem Van Heuvelen\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-05-13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05 - Sitzungsnotizen/2025-05-13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-05-13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":74},\"to\":{\"line\":97,\"ch\":74}},\"scroll\":84.08639705882354}"
+                },
+                {
+                  "title": "Kampagnen-Log",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 - Kampagnenübersicht/Kampagnen-Log.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kampagnen-Log\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Sitzungsnotizen/2025-05-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-13"
+            }
+          },
+          {
+            "id": "1a6e70eb1378f65a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kult der Blutigen Zunge"
+            }
+          },
+          {
+            "id": "591b738ace9813f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Charaktere/NSCs/Jackson Elias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jackson Elias"
+            }
+          },
+          {
+            "id": "c69473c90b76bcd8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Orte/Kairo/Hussein-Moschee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hussein-Moschee"
+            }
+          },
+          {
+            "id": "d20d0c2c00f16dba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Charaktere/NSCs/Faraz Najjar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Faraz Najjar"
+            }
+          },
+          {
+            "id": "817e5160dece799a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Hinweise & Wissen/Mythen & Legenden/Schwarzer Pharao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schwarzer Pharao"
+            }
+          },
+          {
+            "id": "b02d47549fc8c81e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Charaktere/NSCs/Dr. Ali Kafur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dr. Ali Kafur"
+            }
+          },
+          {
+            "id": "43703026647af69b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Orte/New York/Juju Haus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Juju Haus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ea19d4ac3e282b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "09cbf8e8eb1e246d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3bd636e9740891b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe7dff8e3b4f6193",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1e42ca499363982",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "250528084d59f010",
+    "type": "split",
+    "children": [
+      {
+        "id": "b53f8eda2b7953c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927e7bb7a8bf25b4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "490812698ad38be4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "adce35ecb804ecdf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ff22200e50a1899d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a880e899d2cdd88e",
+  "lastOpenFiles": [
+    "03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md",
+    "05 - Sitzungsnotizen/2025-05-13.md",
+    "01 - Charaktere/NSCs/Carlton Ramsey.md",
+    "03 - Hinweise & Wissen/Mythen & Legenden/Byakhee.md",
+    "Biaki.md",
+    "02 - Orte/New York/Testamentsbüro Ramsey.md",
+    "01 - Charaktere/NSCs/Jan Willem Van Heuvelen.md",
+    "01 - Charaktere/NSCs/Jackson Elias.md",
+    "02 - Orte/Kairo/Hussein-Moschee.md",
+    "01 - Charaktere/NSCs/Faraz Najjar.md",
+    "03 - Hinweise & Wissen/Mythen & Legenden/Schwarzer Pharao.md",
+    "01 - Charaktere/NSCs/Dr. Ali Kafur.md",
+    "02 - Orte/New York/Juju Haus.md",
+    "00 - Kampagnenübersicht/Kampagnen-Log.md",
+    "02 - Orte/Ägypten Allgemein/Memphis.md",
+    "02 - Orte/Ägypten Allgemein/Gizeh.md",
+    "02 - Orte/Ägypten Allgemein/Dashur.md",
+    "01 - Charaktere/NSCs/Jan Willem Van Heivelen.md",
+    "03 - Hinweise & Wissen/Mythen & Legenden/Herr der Maden.md",
+    "03 - Hinweise & Wissen/Mythen & Legenden/Nefrén-Ka.md",
+    "01 - Charaktere/NSCs/Warren Bessar.md",
+    "01 - Charaktere/SCs/Nate.md",
+    "01 - Charaktere/Nate.md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Livre d'Ivon.md",
+    "01 - Charaktere/NSCs/Edward Gavigan.md",
+    "02 - Orte/Ägypten Allgemein/Knickpyramide.md",
+    "02 - Orte/Ägypten Allgemein",
+    "Anhänge/Bilder",
+    "Anhänge",
+    "06 - Regeln & Referenzen",
+    "05 - Sitzungsnotizen",
+    "04 - Gegenstände",
+    "03 - Hinweise & Wissen/Kulte & Organisationen",
+    "03 - Hinweise & Wissen/Mythen & Legenden",
+    "03 - Hinweise & Wissen/Bücher & Schriften",
+    "03 - Hinweise & Wissen",
+    "99_Assets/Images/withering.jpg",
+    "99_Assets/Images/shell.jpg",
+    "99_Assets/Images/passage.jpg",
+    "99_Assets/Images/office.webp",
+    "99_Assets/Images/linger.webp",
+    "99_Assets/Images/lifeless_deathless.jpg",
+    "99_Assets/Images/labyrinthian.jpg",
+    "99_Assets/Images/instill.jpg",
+    "99_Assets/Images/death_spiral.jpg",
+    "99_Assets/Images/catastrophize.jpg",
+    "03_Mysteries/Act_1/Untitled.canvas"
+  ]
+}
