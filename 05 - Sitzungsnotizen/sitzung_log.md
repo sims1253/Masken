@@ -44,26 +44,14 @@ charakter: "[[Dein Charakterbogen-Notiz]]" # Link zu deiner Charakter-Notiz
 *   Mit [[Anderer SC Name]] gestritten, ob wir [[NSC Name 1]] vertrauen sollen.
 *   Glückspunkt(e) ausgegeben für [Aktion].
 
-## 6. Charakterstatus-Update (Ende der Sitzung)
-*(Veränderungen bei Werten, Inventar, Fertigkeiten usw. verfolgen)*
-*   **TP (Trefferpunkte):** [Aktuell]/[Max] (Schaden erhalten: [Menge] von [Quelle])
-*   **STA (Stabilitätspunkte):** [Aktuell]/[Max Startwert] (Verlust diese Sitzung: [Menge] von [Quelle]. Neue Phobie/Manie? [[Link zu Wahnsinns-Notiz?]])
-*   **Glück:** [Aktuell] (Ausgegeben: [Menge])
-*   **MP (Magiepunkte):** [Aktuell]/[Max] (Ausgegeben: [Menge] für [[Zaubername]])
-*   **Benutzte/Geprüfte Fertigkeiten:** [[Fertigkeit 1]], [[Fertigkeit 2]] (Häkchen für möglichen Verbesserungswurf setzen)
-*   **Inventaränderungen:**
-    *   *Erhalten:* [[Gegenstandsname 1]], [[Gegenstandsname 2]]
-    *   *Benutzt/Verloren:* [Munition verbraucht], [[Gegenstandsname 3]]
-*   **Wichtige Beziehungsänderungen:** Meine Meinung über [[NSC/SC Name]] hat sich verbessert/verschlechtert, weil [Grund].
-
-## 7. Meine Fragen, Theorien & Ziele
+## 6. Meine Fragen, Theorien & Ziele
 *(Was frage ich mich noch? Was sind meine aktuellen Theorien zum Mysterium/Rätsel? Was möchte mein Charakter nächste Sitzung oder langfristig erreichen?)*
 *   **Frage:** Wer war die Gestalt, die aus [[Ort]] geflohen ist?
 *   **Theorie:** Ich vermute, [[NSC Name 2]] arbeitet heimlich mit [Gegnergruppe?] zusammen.
 *   **Ziel (Kurzfristig):** Muss zu [[Thema/Symbol]] in der Bibliothek recherchieren.
 *   **Ziel (Langfristig):** Herausfinden, was mit [[Vermisste Person/Hintergrundelement]] passiert ist.
 
-## 8. Bemerkenswerte Zitate oder Momente
+## 7. Bemerkenswerte Zitate oder Momente
 *(Optional: Notiere denkwürdige Dialogzeilen oder besonders coole/gruselige Momente.)*
 *   SL: "Als du um die Ecke biegst, trifft dich zuerst der Geruch..."
 *   [[Anderer SC Name]]: "Auf keinen Fall gehe ICH da zuerst rein!"

@@ -11,65 +11,131 @@
             "id": "a880e899d2cdd88e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Kult der Blutigen Zunge",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kult der Blutigen Zunge\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Byakhee",
+                  "title": "Goldmaske (Peru)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Mythen & Legenden/Byakhee.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Byakhee\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"04 - Gegenstände/Goldmaske (Peru).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Goldmaske (Peru)\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "Carlton Ramsey",
+                  "title": "Geschnitztes Zepter (Mijanné)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Charaktere/NSCs/Carlton Ramsey.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Carlton Ramsey\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":121},\"to\":{\"line\":11,\"ch\":121}},\"scroll\":0}"
-                },
-                {
-                  "title": "2025-05-13",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05 - Sitzungsnotizen/2025-05-13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-05-13\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":139},\"to\":{\"line\":26,\"ch\":139}},\"scroll\":15.264761188416697}"
-                },
-                {
-                  "title": "Jan Willem Van Heuvelen",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"01 - Charaktere/NSCs/Jan Willem Van Heuvelen.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jan Willem Van Heuvelen\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"04 - Gegenstände/Geschnitztes Zepter (Mijanné).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Geschnitztes Zepter (Mijanné)\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "2025-05-13",
+                  "title": "Panacottic Manuscripts",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05 - Sitzungsnotizen/2025-05-13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-05-13\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":74},\"to\":{\"line\":97,\"ch\":74}},\"scroll\":84.08639705882354}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Bücher & Schriften/Panacottic Manuscripts.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Panacottic Manuscripts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 },
                 {
-                  "title": "Kampagnen-Log",
+                  "title": "Necronomicon (Al-Azif)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"00 - Kampagnenübersicht/Kampagnen-Log.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kampagnen-Log\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Bücher & Schriften/Necronomicon (Al-Azif).md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Necronomicon (Al-Azif)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Livre d'Ivon",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Bücher & Schriften/Livre d'Ivon.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Livre d'Ivon\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Amongst the Stones",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Bücher & Schriften/Amongst the Stones.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Amongst the Stones\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Africa's Dark Sects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"03 - Hinweise & Wissen/Bücher & Schriften/Africa's Dark Sects.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Africa's Dark Sects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Memphis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Memphis.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Memphis\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kairo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Kairo_stadt/Kairo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kairo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":125},\"to\":{\"line\":14,\"ch\":125}}}"
+                },
+                {
+                  "title": "Dashur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Dashur.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dashur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Gizeh",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Gizeh.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Gizeh\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dashur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Dashur.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dashur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kairo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Kairo/Kairo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kairo\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dashur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Dashur.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dashur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kairo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Kairo/Kairo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kairo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Dashur",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Dashur.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Dashur\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
+                  "title": "Kairo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"02 - Orte/Ägypten/Kairo/Kairo.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Kairo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-05-13",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"05 - Sitzungsnotizen/2025-05-13.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-05-13\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Sitzungsnotizen/2025-05-13.md",
+                "file": "04 - Gegenstände/Kupferschale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-13"
+              "title": "Kupferschale"
             }
           },
           {
@@ -432,47 +498,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a880e899d2cdd88e",
   "lastOpenFiles": [
-    "03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md",
+    "04 - Gegenstände/Goldmaske (Peru).md",
+    "04 - Gegenstände/Geschnitztes Zepter (Mijanné).md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Panacottic Manuscripts.md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Necronomicon (Al-Azif).md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Livre d'Ivon.md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Amongst the Stones.md",
+    "03 - Hinweise & Wissen/Bücher & Schriften/Africa's Dark Sects.md",
+    "02 - Orte/Ägypten/Memphis.md",
+    "02 - Orte/Ägypten/Kairo_stadt/Kairo.md",
+    "02 - Orte/Ägypten/Dashur.md",
+    "02 - Orte/Ägypten/Kairo/Kairo.md",
+    "02 - Orte/Ägypten/Kairo_stadt/Straße der Töpfer (Khan el-Khalili).md",
+    "02 - Orte/Ägypten/Kairo_stadt/Ägyptisches Museum (Kairo).md",
+    "02 - Orte/Ägypten/Kairo_stadt/Straße der Schakale.md",
+    "02 - Orte/Ägypten/Kairo_stadt/Hussein-Moschee.md",
+    "02 - Orte/Ägypten/Kairo_stadt/Hotel Shack Burrs.md",
+    "02 - Orte/Ägypten/Kairo_stadt",
+    "02 - Orte/Ägypten/Gizeh.md",
     "05 - Sitzungsnotizen/2025-05-13.md",
+    "03 - Hinweise & Wissen/Kulte & Organisationen/Kult der Blutigen Zunge.md",
     "01 - Charaktere/NSCs/Carlton Ramsey.md",
     "03 - Hinweise & Wissen/Mythen & Legenden/Byakhee.md",
     "Biaki.md",
     "02 - Orte/New York/Testamentsbüro Ramsey.md",
     "01 - Charaktere/NSCs/Jan Willem Van Heuvelen.md",
     "01 - Charaktere/NSCs/Jackson Elias.md",
-    "02 - Orte/Kairo/Hussein-Moschee.md",
-    "01 - Charaktere/NSCs/Faraz Najjar.md",
-    "03 - Hinweise & Wissen/Mythen & Legenden/Schwarzer Pharao.md",
-    "01 - Charaktere/NSCs/Dr. Ali Kafur.md",
-    "02 - Orte/New York/Juju Haus.md",
-    "00 - Kampagnenübersicht/Kampagnen-Log.md",
-    "02 - Orte/Ägypten Allgemein/Memphis.md",
-    "02 - Orte/Ägypten Allgemein/Gizeh.md",
-    "02 - Orte/Ägypten Allgemein/Dashur.md",
-    "01 - Charaktere/NSCs/Jan Willem Van Heivelen.md",
-    "03 - Hinweise & Wissen/Mythen & Legenden/Herr der Maden.md",
-    "03 - Hinweise & Wissen/Mythen & Legenden/Nefrén-Ka.md",
-    "01 - Charaktere/NSCs/Warren Bessar.md",
-    "01 - Charaktere/SCs/Nate.md",
-    "01 - Charaktere/Nate.md",
-    "03 - Hinweise & Wissen/Bücher & Schriften/Livre d'Ivon.md",
-    "01 - Charaktere/NSCs/Edward Gavigan.md",
-    "02 - Orte/Ägypten Allgemein/Knickpyramide.md",
-    "02 - Orte/Ägypten Allgemein",
+    "02 - Orte/Ägypten/Kairo/Hussein-Moschee.md",
+    "02 - Orte/Ägypten",
     "Anhänge/Bilder",
     "Anhänge",
     "06 - Regeln & Referenzen",
@@ -481,7 +548,6 @@
     "03 - Hinweise & Wissen/Kulte & Organisationen",
     "03 - Hinweise & Wissen/Mythen & Legenden",
     "03 - Hinweise & Wissen/Bücher & Schriften",
-    "03 - Hinweise & Wissen",
     "99_Assets/Images/withering.jpg",
     "99_Assets/Images/shell.jpg",
     "99_Assets/Images/passage.jpg",
